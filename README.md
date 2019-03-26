@@ -1,2 +1,0 @@
-# master
-core java
